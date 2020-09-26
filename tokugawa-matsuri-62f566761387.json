@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tokugawa-matsuri",
+  "private_key_id": "62f56676138735bd6fedfd6ae23ff90902ee867e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDW/28kaHpA8xZb\nmy5wnXZFslaodUMXXhfyBCNp1lYyuLs8+/C7cDXQV5Z3pVlgbBMw5oH+85SmgNrr\nsxgsdNOqDHoofIz9lZAUt4twnZd+gDXvxtUrM+g1V5um2VYe3gKOPTTWE34Jf/7J\nf4yVK8vgMP/5CZ6VqpPDPD8/qBu3JQZSQmXMsCz66p6BTi8QNilCU3EI8eeGMenR\noNEHikaxJBqwft9ypJkcKdsIEvMjHZr+9GVNxiUV+z/xTgRYytDuLI07s6CR39uX\ng3mrKjZMaJ1iO4MdKXAV6QTMIkIUnj2eOMnfPjt2ht6KRXzRPstCjDxtFewlWMQP\nRmfOqUspAgMBAAECggEAYhLoWLPeHNWmu8f4sb9qjdWR6UuAfN7bzncrzmJLNN0G\n8IU+5coEilMCHPcM48q5IGPuJeZoR2HdO4qZeuIaEeaaLPDQAfdhX8nwbkE9M6P5\ntrS9VfVaNkcOBlj7C56bjNYHzaXbpyq/h5xK/Vsap9zCT5CfSkejGvrXIUsmxW5k\nMJNytcLqHVdN85MRunsVAW9M7TQ0YKm71x0bu/9n3uLd16E8PYoFA1I5uhXgmI2R\nsKqYA9H1OLvIjUuZA+yTLUoxY9TlyVlXImTGaFglGAC0pJOjNDQKFawx8AMYfpjq\ncl+kXBMAO6fWhE2UWXymoHQ7R/QmbOaA/tgrhB6OtwKBgQD8KXKYYJvXsP3Wt4Uz\njxpo4ZnZbveF/Maeen9oH8FcNIBUIVRINDR0HI+JvBFyoCYvOqm+m9i7qbFKYpxp\nZdzAyZ1aephBS/ei6guGDZ4MgQaHPK2H5LqHScK/OGZS0QLVj420EIePvZx9XmI6\n4wB2xvYrBTw/0phkfMkEB1ufjwKBgQDaRS0PtkywOjQifprJLrcc79jXIaxOQPGf\n5PIKKEtRIYjD9ME44lJok3TjOBUxAewpoI4bHKirsRFz5uJuBJG783JLydw8Ji8N\nPkW8EuAOnR0jk1p1awoY2iOp0ek0Jy/K98hRXMcRDZvgFKAErps44xchRHAbhicG\nblbIsEoNxwKBgQCgfAiQ7juBJQYI17gQvm0Cf0KZXcRvJBeM2U2pCTzY4Bkkcinf\n4knX9C1ubaF1IHPs7xsFUs63cSKCwwvlEI1UrXxWD1xDgoPSzb4TzSrfrmZnP7j5\nmhsU617ksJJ+9sMlBD4dcb+1PeoQ6DcAX2T2M16MtsJHpFKU8c5FoCEyBQKBgQCT\nk8gW4oRRdtj/JajUM9C9MPHk6zCMLF7yZCK+eWYLMeg9zcPDCUr8yA50/ttdKlaa\nAqNyc1sb0vng6o/YISDD+qMh2RceWBbiFmOh+QUi/FnSTvQPhdLq4LrSPEo35/Lp\ngcUgNeGmhxQIWwmigMgUm35tEM/X3EmQkJP+1ysKywKBgBcw4vf9alIGkkuktc0t\nsLBiOuyEPlIkRwb7KakeeKFbzRmDJDaYkl5Xh/PJ/eqFgmYx3GOs7dsPDj7TPB8r\nw4fQwZOEDskSxWCWWhnVkCO1fPP23/Kk2Z4blcZHBNtxs0G32MKAEUVZLFuhJGeX\nCYn9O7jhk4UOMc2pMUMi4Y9l\n-----END PRIVATE KEY-----\n",
+  "client_email": "tokugawamatsuri-gitpublish@tokugawa-matsuri.iam.gserviceaccount.com",
+  "client_id": "107027952418005561805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tokugawamatsuri-gitpublish%40tokugawa-matsuri.iam.gserviceaccount.com"
+}
